@@ -22,3 +22,6 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+#task{
+  box-shadow: inset 0 0 1px;
+}
